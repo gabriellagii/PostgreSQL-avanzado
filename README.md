@@ -1,3 +1,3 @@
 # H1 PostgreSQL-avanzado
 
-![Versiones](lineatiempo.PNG)
+![Versiones](imagenes/lineatiempo.PNG)
